@@ -1,8 +1,6 @@
 
 <img width="1331" height="817" alt="Screenshot 2026-06-21 213806" src="https://github.com/user-attachments/assets/221ced18-97c4-4f0e-ad3d-47355a2478ef" />
 
-
-
 # 🏥 AI-Powered Healthcare Dashboard
 
 A comprehensive full-stack healthcare application featuring real-time doctor-patient communication, an intelligent voice-enabled AI assistant, and live medication syncing. 
