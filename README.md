@@ -48,3 +48,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Open a terminal and navigate to the `backend` folder:
 ```bash
    cd backend
+   npm install
