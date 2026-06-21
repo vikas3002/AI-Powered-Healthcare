@@ -52,7 +52,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npm start
 ```
 
-3. Frontend setup (in a new terminal, from the project root)
+2. Frontend setup (in a new terminal, from the project root)
 ```bash
 root folder
 npm install
